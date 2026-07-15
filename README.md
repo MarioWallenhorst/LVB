@@ -12,7 +12,7 @@ Datei wählen: Es öffnet sich ein Dialogfenster. Wähle hier die gewünschte .l
 
 Ansehen: Das Programm lädt den Stream, analysiert die Metadaten und zeigt das Bild in der entsprechenden Auflösung an.
 
-Hinweis: Das Programm ist für Windows-Systeme ausgelegt.
+Hinweis: Das Programm ist für Windows-Systeme ausgelegt. Es kann sein, das der Window Defender sich meldet, klickt einfach auf "mehr information" und dann auf "Trotzdem ausführe"!
 
 Technische Notizen
 Version: Beta 1.1
